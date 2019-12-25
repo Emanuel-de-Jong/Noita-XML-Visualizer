@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{C98FB3E2-3EDC-4269-8977-D6F13863C2AC}</ProjectGuid>
+    <ProjectGuid>{7865CF2B-868D-4C8C-B4F4-23AEFFD74BB6}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>NoitaWorldPixelScene</RootNamespace>
-    <AssemblyName>NoitaWorldPixelScene</AssemblyName>
+    <RootNamespace>Noita_Worldpixelscenes_Visualizer</RootNamespace>
+    <AssemblyName>Noita-Worldpixelscenes-Visualizer</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -35,7 +35,6 @@
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Core" />
-    <Reference Include="System.Drawing" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
