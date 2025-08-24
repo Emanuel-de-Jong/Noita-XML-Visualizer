@@ -19,6 +19,6 @@ It is a simple and small program but it shows that I can make good use of commen
 - Frameworks and libraries: .NET Framework
 
 ## Progress
-- Start date: 30.09.19
-- Last change: 30.09.19
+- Start date: 2019-09-30
+- Last change: 2019-10-01
 - Activity status: Complete
