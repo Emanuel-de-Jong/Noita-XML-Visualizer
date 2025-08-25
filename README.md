@@ -5,8 +5,8 @@ It was made when the community was still figuring everything out the game had to
 
 It is a simple and small program but it shows that I can make good use of comments and can handle errors.
 
-**Active Development:** 2019-09-30 - 2019-10-01<br>
-**Last Change:** 2019-10-01<br>
+**Active Development:** 2019-09-30 - 2019-09-30<br>
+**Last Change:** 2019-09-30<br>
 
 | | |
 | :---: | :---: |
